@@ -159,6 +159,8 @@ mlflow ui --backend-store-uri mlruns
 | drift_detection | KS stats, PSI scores, Evidently report, drift flags |
 | retrained_model | new accuracy, F1, delta, registered model |
 
+<img width="1259" height="691" alt="Screenshot 2026-05-09 at 3 11 49 AM" src="https://github.com/user-attachments/assets/b46422f2-9c1a-4e71-9481-f7f8c8700458" />
+
 ---
 
 ## Author
